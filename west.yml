@@ -68,7 +68,6 @@ manifest:
     # https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/introduction/index.html
     # https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/guides/modules.html
     - name: zephyr
-      repo-path: SenSE-sdk-zephyr
       url: https://github.com/SenSE-Lab-OSU/SenSE-sdk-zephyr
       revision: SenSE-ncs2.9.3 #v3.7.99-ncs2-3
       import:

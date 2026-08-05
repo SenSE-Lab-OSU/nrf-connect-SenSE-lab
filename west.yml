@@ -21,6 +21,8 @@ manifest:
     - name: ncs
       url-base: https://github.com/nrfconnect
     # Third-party repository sources:
+    - name: zephyrproject
+      url-base: https://github.com/SenSE-Lab-OSU
     - name: throwtheswitch
       url-base: https://github.com/ThrowTheSwitch
     - name: armmbed

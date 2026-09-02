@@ -69,7 +69,7 @@ manifest:
     # https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/guides/modules.html
     - name: zephyr
       url: https://github.com/SenSE-Lab-OSU/SenSE-sdk-zephyr
-      revision: 01e026c37afe47fa0f423f999fa78a15c097998a #v3.7.99-ncs2-3
+      revision: SenSE-ncs2.9.3 #v3.7.99-ncs2-3
       import:
         # In addition to the zephyr repository itself, NCS also
         # imports the contents of zephyr/west.yml at the above
